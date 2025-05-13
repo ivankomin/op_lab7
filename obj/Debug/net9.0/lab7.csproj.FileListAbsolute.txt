@@ -1,0 +1,14 @@
+C:\Users\ivank\coding_stuff\op_2\lab7\bin\Debug\net9.0\lab7.exe
+C:\Users\ivank\coding_stuff\op_2\lab7\bin\Debug\net9.0\lab7.deps.json
+C:\Users\ivank\coding_stuff\op_2\lab7\bin\Debug\net9.0\lab7.runtimeconfig.json
+C:\Users\ivank\coding_stuff\op_2\lab7\bin\Debug\net9.0\lab7.dll
+C:\Users\ivank\coding_stuff\op_2\lab7\bin\Debug\net9.0\lab7.pdb
+C:\Users\ivank\coding_stuff\op_2\lab7\obj\Debug\net9.0\lab7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivank\coding_stuff\op_2\lab7\obj\Debug\net9.0\lab7.AssemblyInfoInputs.cache
+C:\Users\ivank\coding_stuff\op_2\lab7\obj\Debug\net9.0\lab7.AssemblyInfo.cs
+C:\Users\ivank\coding_stuff\op_2\lab7\obj\Debug\net9.0\lab7.csproj.CoreCompileInputs.cache
+C:\Users\ivank\coding_stuff\op_2\lab7\obj\Debug\net9.0\lab7.dll
+C:\Users\ivank\coding_stuff\op_2\lab7\obj\Debug\net9.0\refint\lab7.dll
+C:\Users\ivank\coding_stuff\op_2\lab7\obj\Debug\net9.0\lab7.pdb
+C:\Users\ivank\coding_stuff\op_2\lab7\obj\Debug\net9.0\lab7.genruntimeconfig.cache
+C:\Users\ivank\coding_stuff\op_2\lab7\obj\Debug\net9.0\ref\lab7.dll
