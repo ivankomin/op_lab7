@@ -48,6 +48,5 @@
         list.DeleteElementByIndex(2);
         Console.WriteLine("The list after deleting the element at index 2 is: ");
         list.PrintList();
-
     }
 }
