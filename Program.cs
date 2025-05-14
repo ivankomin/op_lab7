@@ -3,11 +3,8 @@
     static void Main(string[] args)
     {
         var list = new LinkedList();
-        list.AddFirstNode(1.0);
-        list.AddLastNode(2.0);
-        list.AddLastNode(3.0);
-        list.InsertAfterSecond(4.0);
-        list.InsertAfterSecond(5.0);
+        list.InsertAfter(4.0, 2);
+        list.InsertAfter(5.0, 2);
 
         Console.WriteLine("The initial list is: ");
         list.PrintList();
@@ -22,7 +19,7 @@
         {
             Console.WriteLine($"There is no number that is twice greater than {value} in the list.");
         }
-        Console.WriteLine($"The amount of elements larger than 3.14 is {list.FindGreaterThanPi()}");
+        Console.WriteLine($"The amount of elements larger than 3.14 is {list.FindGreaterThan(3.14)}");
         
         var newList = list.NewList(2.0);
         Console.WriteLine("The new list is: ");
@@ -32,11 +29,11 @@
         Console.WriteLine("The list after deleting elements greater than the average is: ");
         list.PrintList();
 
-        list.InsertAfterSecond(6.0);
-        list.InsertAfterSecond(7.0);
-        list.InsertAfterSecond(8.0);
-        list.InsertAfterSecond(9.0);
-        list.InsertAfterSecond(10.0);
+        list.InsertAfter(6.0, 2);
+        list.InsertAfter(7.0, 2);
+        list.InsertAfter(8.0, 2);
+        list.InsertAfter(9.0, 2);
+        list.InsertAfter(10.0, 2);
 
         Console.WriteLine("Iterating using foreach: ");
         foreach(var item in list) Console.Write(item + " -> ");
